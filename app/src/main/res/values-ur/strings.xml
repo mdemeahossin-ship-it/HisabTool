@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب ٹول</string>
+    <string name="hello_blank_fragment">ہیلو بلینک فریگمنٹ</string>
+
+    <string name="txt_premium_heading">پریمیم سبسکرپشن</string>
+    <string name="txt_premium_item1">پریمیم</string>
+    <string name="txt_premium_sub1">تمام خصوصیات کو غیر مقفل کریں</string>
+    <string name="txt_upgrade_now">ابھی اپگریڈ کریں</string>
+    <string name="txt_premium_item2">لائف ٹائم پریمیم</string>
+    <string name="txt_premium_sub2">دوستوں کو مدعو کریں اور ہمیشہ کے لیے کھولیں</string>
+    <string name="txt_get_free_premium">مفت پریمیم حاصل کریں</string>
+
+    <string name="txt_welcome">خوش آمدید،</string>
+    <string name="nav_home">ہوم</string>
+    <string name="nav_customer">کسٹمر</string>
+    <string name="nav_profile">پروفائل</string>
+    <string name="title_customer_list">کسٹمر لسٹ</string>
+    <string name="hint_search_customer">کسٹمر کا نام تلاش کریں...</string>
+    <string name="title_my_profile">میرا پروفائل</string>
+    <string name="menu_rate_app">ایپ کی درجہ بندی کریں</string>
+    <string name="menu_language">زبان (Language)</string>
+    <string name="menu_share_app">ایپ شیئر کریں</string>
+    <string name="menu_logout">لاگ آؤٹ کریں</string>
+
+    <string name="total_due_">کل واجب الادا رقم</string>
+    <string name="customers">کل کسٹمرز</string>
+
+
+    <string name="txt_total_due_amount">کل واجب الادا رقم</string>
+    <string name="txt_total_due_simple">کل واجب الادا</string>
+    <string name="toast_rate_error">پلے اسٹور نہیں کھولا جا سکا</string>
+    <string name="txt_total_amount_paid">کل ادا شدہ رقم</string>
+    <string name="txt_transaction_history">لین دین کی تاریخ</string>
+
+
+    <string name="txt_add_new_customer">نیا کسٹمر شامل کریں</string>
+    <string name="hint_customer_name">کسٹمر کا نام درج کریں</string>
+    <string name="hint_customer_phone">کسٹمر کا فون نمبر درج کریں</string>
+    <string name="btn_save">محفوظ کریں</string>
+
+
+    <string name="txt_date">تاریخ</string>
+    <string name="txt_details">تفصیل</string>
+    <string name="hint_details_example">جیسے: چاول، دال، تیل وغیرہ</string>
+    <string name="txt_amount_of_money">رقم</string>
+    <string name="hint_amount_example">جیسے: 500، 1000</string>
+    <string name="btn_save_transaction">محفوظ کریں</string>
+
+
+    <string name="txt_date_new">تاریخ</string>
+    <string name="txt_details_new">تفصیل</string>
+    <string name="hint_items_eg">جیسے: چاول، دال، تیل وغیرہ</string>
+    <string name="txt_prev_due">پچھلا واجب الادا</string>
+    <string name="hint_num_eg">جیسے: 500، 1000</string>
+    <string name="btn_save_final">محفوظ کریں</string>
+
+
+    <string name="txt_app_login">حساب ٹول لاگ ان</string>
+    <string name="txt_recover_title">اپنا اکاؤنٹ بازیافت کریں یا لاگ ان کریں</string>
+    <string name="hint_phone_basic">فون نمبر درج کریں</string>
+    <string name="hint_phone_your">اپنا موبائل نمبر درج کریں</string>
+    <string name="btn_next_step">آگے بڑھیں</string>
+    <string name="btn_create_acc">نیا اکاؤنٹ بنائیں</string>
+    <string name="btn_save_data">Language</string>
+
+
+
+
+    <string name="txt_new_acc_title">نیا اکاؤنٹ</string>
+    <string name="txt_reg_instruction">صحیح معلومات کے ساتھ اپنی رجسٹریشن مکمل کریں</string>
+    <string name="hint_your_name">آپ کا نام</string>
+    <string name="hint_select_customer">گاہک کا نام منتخب کریں</string>
+    <string name="txt_mobile_lbl">موبائل نمبر</string>
+    <string name="hint_your_mobile">آپ کا موبائل نمبر</string>
+    <string name="btn_submit_reg">اکاؤنٹ بنائیں</string>
+
+
+
+    <string name="hint_otp_code">کوڈ یہاں درج کریں</string>
+    <string name="txt_otp_instruction">اپنے موبائل نمبر پر بھیجا گیا 6 ہندسوں کا OTP کوڈ درج کریں۔</string>
+    <string name="btn_login_submit">لاگ ان کریں</string>
+
+
+
+    <string name="dialog_delete_title">کسٹمر کو حذف کرنے کی تصدیق کریں</string>
+    <string name="dialog_delete_msg">کیا آپ واقعی منتخب کردہ کسٹمرز کو حذف کرنا چاہتے ہیں؟ یہ کلاؤڈ بیک اپ سے بھی ہٹا دیا جائے گا!</string>
+    <string name="dialog_btn_yes">ہاں</string>
+    <string name="dialog_btn_no">نہیں</string>
+    <string name="toast_deleted">کسٹمر حذف کر دیا گیا ہے</string>
+
+
+    <string name="dialog_logout_title">لاگ آؤٹ کی تصدیق کریں</string>
+    <string name="dialog_logout_msg">کیا آپ واقعی اپنے اکاؤنٹ سے لاگ آؤٹ کرنا چاہتے ہیں؟</string>
+    <string name="dialog_btn_logout_yes">ہاں، لاگ آؤٹ</string>
+    <string name="dialog_btn_logout_no">نہیں</string>
+    <string name="toast_logout_success">لاگ آؤٹ کامیاب رہا</string>
+
+
+
+    <string name="txt_prof_name">نام</string>
+    <string name="txt_prof_mobile">موبائل نمبر</string>
+    <string name="txt_prof_uid">یو آئی ڈی (UID) صارف کی آئی ڈی</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1085128298797",
+    "firebase_url": "https://hisabtool-a89e5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hisabtool-a89e5",
+    "storage_bucket": "hisabtool-a89e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085128298797:android:197ad07d5570c3054ec3a4",
+        "android_client_info": {
+          "package_name": "com.maruf.hisabtool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZ5wCd0tUep4R6z_f85I61Mu4Z5HNT_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

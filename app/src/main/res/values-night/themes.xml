@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.SQLiteDatabase" parent="Theme.Material3.Dark.NoActionBar">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:statusBarColor">@color/primary</item>
+
+        <item name="actionModeStyle">@style/CustomActionModeStyleNight</item>
+
+    </style>
+
+    <style name="CustomActionModeStyleNight" parent="Widget.AppCompat.ActionMode">
+        <item name="background">@color/primary</item> <item name="titleTextStyle">@style/CustomActionModeTitleTextNight</item>
+    </style>
+
+    <style name="CustomActionModeTitleTextNight" parent="TextAppearance.AppCompat.Widget.ActionMode.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/primary"
+    tools:context=".Payment_Activity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:background="@drawable/top_curved"
+        android:orientation="vertical"
+        >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_date"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_60sdp"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_Input_Date"
+        android:layout_width="@dimen/_280sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_15sdp"
+        android:hint="25 মে 2024"
+        android:layout_gravity="center"
+        app:errorEnabled="true"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/ed_Date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="datetime" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--=======================================-->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_details"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/_10sdp"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_Input_details"
+        android:layout_width="@dimen/_280sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_15sdp"
+        android:layout_gravity="center"
+        android:hint="@string/hint_details_example"
+        app:errorEnabled="true"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/ed_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--=======================================-->
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_amount_of_money"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/_10sdp"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_Input_amount"
+        android:layout_width="@dimen/_280sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:hint="@string/hint_amount_example"
+        android:layout_gravity="center"
+        app:errorEnabled="true"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/ed_amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--=======================================-->
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/seve_bnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_margin="@dimen/_5sdp"
+        android:background="@drawable/solid_button_bg"
+        android:text="@string/btn_save_transaction"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_11sdp" />
+
+
+
+    <!--=======================================-->
+
+    </LinearLayout>
+
+
+</LinearLayout>

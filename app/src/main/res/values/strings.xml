@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HisabTool</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_premium_heading">Premium Subscription</string>
+    <string name="txt_premium_item1">PREMIUM</string>
+    <string name="txt_premium_sub1">Unlock all features</string>
+    <string name="txt_upgrade_now">Upgrade Now</string>
+    <string name="txt_premium_item2">life PREMIUM</string>
+    <string name="txt_premium_sub2">Invite friends and unlock forever</string>
+    <string name="txt_get_free_premium">Get Free Premium</string>
+
+
+    <string name="txt_welcome">Welcome,</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_customer">Customer</string>
+    <string name="nav_profile">Profile</string>
+
+
+    <string name="title_customer_list">Customer List</string>
+    <string name="hint_search_customer">Search customer name...</string>
+
+
+    <string name="title_my_profile">My Profile</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="toast_rate_error">Could not open Play Store</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="menu_logout">Logout</string>
+
+
+    <string name="total_due_">Total Due</string>
+    <string name="customers">Total Customers</string>
+
+
+    <string name="txt_total_due_amount">Total Due Amount</string>
+    <string name="txt_total_due_simple">Total Due</string>
+    <string name="txt_total_amount_paid">Total Amount Paid</string>
+    <string name="txt_transaction_history">Transaction History</string>
+
+
+    <string name="txt_add_new_customer">Add New Customer</string>
+    <string name="hint_customer_name">Enter Customer Name</string>
+    <string name="hint_customer_phone">Enter Customer Phone Number</string>
+    <string name="btn_save">Save</string>
+
+
+    <string name="txt_date">Date</string>
+    <string name="txt_details">Details</string>
+    <string name="hint_details_example">For example: rice, pulses, oil etc.</string>
+    <string name="txt_amount_of_money">Amount of Money</string>
+    <string name="hint_amount_example">For example: 500, 1000</string>
+    <string name="btn_save_transaction">Save</string>
+
+
+    <string name="txt_date_new">Date</string>
+    <string name="txt_details_new">Details</string>
+    <string name="hint_items_eg">For example: rice, pulses, oil etc.</string>
+    <string name="txt_prev_due">Previous Due</string>
+    <string name="hint_num_eg">For example: 500, 1000</string>
+    <string name="btn_save_final">Save</string>
+
+
+    <string name="txt_app_login">Hisab Tool Login</string>
+    <string name="txt_recover_title">Recover or Login to Your Account</string>
+    <string name="hint_phone_basic">Enter Phone Number</string>
+    <string name="hint_phone_your">Enter Your Mobile Number</string>
+    <string name="btn_next_step">Enter</string>
+    <string name="btn_create_acc">Create New Account</string>
+    <string name="btn_save_data">Language</string>
+
+
+    <string name="txt_new_acc_title">New Account</string>
+    <string name="txt_reg_instruction">Complete your registration with correct information</string>
+    <string name="hint_your_name">Your Name</string>
+    <string name="hint_select_customer">Select Customer Name</string>
+    <string name="txt_mobile_lbl">Mobile Number</string>
+    <string name="hint_your_mobile">Your Mobile Number</string>
+    <string name="btn_submit_reg">Create Account</string>
+
+
+    <string name="hint_otp_code">Enter code here</string>
+    <string name="txt_otp_instruction">Enter the 6-digit OTP code sent to your mobile number.</string>
+    <string name="btn_login_submit">Log In</string>
+
+
+
+
+    <string name="dialog_delete_title">Confirm Customer Delete</string>
+    <string name="dialog_delete_msg">Are you sure you want to delete the selected customer(s)? It will also be removed from the cloud backup!</string>
+    <string name="dialog_btn_yes">Yes</string>
+    <string name="dialog_btn_no">No</string>
+    <string name="toast_deleted">Customer deleted successfully</string>
+
+
+    <string name="dialog_logout_title">Confirm Logout</string>
+    <string name="dialog_logout_msg">Are you sure you want to log out of your account?</string>
+    <string name="dialog_btn_logout_yes">Yes, Logout</string>
+    <string name="dialog_btn_logout_no">No</string>
+    <string name="toast_logout_success">Logged out successfully</string>
+
+
+    <string name="txt_prof_name">Name</string>
+    <string name="txt_prof_mobile">Mobile Number</string>
+    <string name="txt_prof_uid">UID User ID</string>
+
+
+
+
+</resources>

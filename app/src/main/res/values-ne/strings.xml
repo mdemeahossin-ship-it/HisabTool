@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हिसाब टुल</string>
+    <string name="hello_blank_fragment">हेलो ब्ल्याङ्क फ्र्याग्मेन्ट</string>
+
+    <string name="txt_premium_heading">प्रिमियम सदस्यता</string>
+    <string name="txt_premium_item1">प्रिमियम</string>
+    <string name="txt_premium_sub1">सबै सुविधाहरू अनलक गर्नुहोस्</string>
+    <string name="txt_upgrade_now">अहिले अपग्रेड गर्नुहोस्</string>
+    <string name="txt_premium_item2">आजीवन प्रिमियम</string>
+    <string name="txt_premium_sub2">साथीहरूलाई आमन्त्रित गर्नुहोस् र सधैंका लागि अनलक गर्नुहोस्</string>
+    <string name="txt_get_free_premium">नि:शुल्क प्रिमियम प्राप्त गर्नुहोस्</string>
+
+    <string name="txt_welcome">स्वागत छ,</string>
+    <string name="nav_home">गृहपृष्ठ</string>
+    <string name="nav_customer">ग्राहक</string>
+    <string name="nav_profile">प्रोफाइल</string>
+    <string name="title_customer_list">ग्राहक सूची</string>
+    <string name="hint_search_customer">ग्राहकको नाम खोज्नुहोस्...</string>
+    <string name="title_my_profile">मेरो प्रोफाइल</string>
+    <string name="menu_rate_app">एपलाई रेट गर्नुहोस्</string>
+    <string name="menu_language">भाषा (Language)</string>
+    <string name="menu_share_app">एप सेयर गर्नुहोस्</string>
+    <string name="menu_logout">लगआउट गर्नुहोस्</string>
+
+    <string name="total_due_">कुल बाँकी रकम</string>
+    <string name="customers">कुल ग्राहकहरू</string>
+
+    <string name="txt_total_due_amount">कुल बाँकी रकम</string>
+    <string name="txt_total_due_simple">कुल बाँकी</string>
+    <string name="toast_rate_error">प्ले स्टोर खोल्न सकिएन</string>
+    <string name="txt_total_amount_paid">कुल भुक्तानी गरिएको रकम</string>
+    <string name="txt_transaction_history">कारोबार इतिहास</string>
+
+
+    <string name="txt_add_new_customer">नयाँ ग्राहक थप्नुहोस्</string>
+    <string name="hint_customer_name">ग्राहकको नाम राख्नुहोस्</string>
+    <string name="hint_customer_phone">ग्राहकको फोन नम्बर राख्नुहोस्</string>
+    <string name="btn_save">बचत गर्नुहोस्</string>
+
+    <string name="txt_date">मिति</string>
+    <string name="txt_details">विवरण</string>
+    <string name="hint_details_example">जस्तै: चामल, दाल, तेल आदि</string>
+    <string name="txt_amount_of_money">रकम</string>
+    <string name="hint_amount_example">जस्तै: ५००, १०००</string>
+    <string name="btn_save_transaction">बचत गर्नुहोस्</string>
+
+
+    <string name="txt_date_new">मिति</string>
+    <string name="txt_details_new">विवरण</string>
+    <string name="hint_items_eg">जस्तै: चामल, दाल, तेल आदि</string>
+    <string name="txt_prev_due">अघिल्लो बाँकी</string>
+    <string name="hint_num_eg">जस्तै: ५००, १०००</string>
+    <string name="btn_save_final">बचत गर्नुहोस्</string>
+
+
+    <string name="txt_app_login">हिसाब टूल लगइन</string>
+    <string name="txt_recover_title">आफ्नो खाता पुन: प्राप्त गर्नुहोस् वा लगइन गर्नुहोस्</string>
+    <string name="hint_phone_basic">फोन नम्बर राख्नुहोस्</string>
+    <string name="hint_phone_your">आफ्नो मोबाइल नम्बर राख्नुहोस्</string>
+    <string name="btn_next_step">अगाडि बढ्नुहोस्</string>
+    <string name="btn_create_acc">नयाँ खाता सिर्जना गर्नुहोस्</string>
+    <string name="btn_save_data">Language</string>
+
+
+    <string name="txt_new_acc_title">नयाँ खाता</string>
+    <string name="txt_reg_instruction">सही जानकारीको साथ आफ्नो दर्ता पूरा गर्नुहोस्</string>
+    <string name="hint_your_name">तपाईंको नाम</string>
+    <string name="hint_select_customer">ग्राहकको नाम चयन गर्नुहोस्</string>
+    <string name="txt_mobile_lbl">मोबाइल नम्बर</string>
+    <string name="hint_your_mobile">तपाईंको मोबाइल नम्बर</string>
+    <string name="btn_submit_reg">खाता सिर्जना गर्नुहोस्</string>
+
+
+    <string name="hint_otp_code">कोड यहाँ राख्नुहोस्</string>
+    <string name="txt_otp_instruction">तपाईंको मोबाइल नम्बरमा पठाइएको ६ अंकको ओटीपी (OTP) कोड लेख्नुहोस्।</string>
+    <string name="btn_login_submit">लगइन गर्नुहोस्</string>
+
+
+
+    <string name="dialog_delete_title">ग्राहक मेटाउने पुष्टि गर्नुहोस्</string>
+    <string name="dialog_delete_msg">के तपाईं पक्का चयन गरिएका ग्राहकहरू मेटाउन चाहनुहुन्छ? यो क्लाउड ब्याकअपबाट पनि हटाइनेछ!</string>
+    <string name="dialog_btn_yes">हो</string>
+    <string name="dialog_btn_no">होइन</string>
+    <string name="toast_deleted">ग्राहक मेटाइयो</string>
+
+
+    <string name="dialog_logout_title">लगआउट पुष्टि गर्नुहोस्</string>
+    <string name="dialog_logout_msg">के तपाईं पक्का आफ्नो खाताबाट लगआउट गर्न चाहनुहुन्छ?</string>
+    <string name="dialog_btn_logout_yes">हो, लगआउट</string>
+    <string name="dialog_btn_logout_no">होइन</string>
+    <string name="toast_logout_success">लगआउट सफल भयो</string>
+
+
+    <string name="txt_prof_name">नाम</string>
+    <string name="txt_prof_mobile">मोबाइल नम्बर</string>
+    <string name="txt_prof_uid">यूआईडी (UID) प्रयोगकर्ता आईडी</string>
+
+
+</resources>

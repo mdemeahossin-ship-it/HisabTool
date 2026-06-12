@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أداة الحساب</string>
+    <string name="hello_blank_fragment">مرحباً بملف جزيء فارغ</string>
+
+    <string name="txt_premium_heading">الاشتراك المميز</string>
+    <string name="txt_premium_item1">مميز</string>
+    <string name="txt_premium_sub1">فتح جميع الميزات</string>
+    <string name="txt_upgrade_now">الترقية الآن</string>
+    <string name="txt_premium_item2">مميز مدى الحياة</string>
+    <string name="txt_premium_sub2">دعوة الأصدقاء والفتح للأبد</string>
+    <string name="txt_get_free_premium">الحصول على مميز مجاني</string>
+
+    <string name="txt_welcome">مرحباً،</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_customer">العملاء</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="title_customer_list">قائمة العملاء</string>
+    <string name="hint_search_customer">البحث عن اسم العميل...</string>
+    <string name="title_my_profile">ملفي الشخصي</string>
+    <string name="menu_rate_app">تقييم التطبيق</string>
+    <string name="menu_language">اللغة (Language)</string>
+    <string name="menu_share_app">مشاركة التطبيق</string>
+    <string name="menu_logout">تسجيل الخروج</string>
+
+    <string name="total_due_">إجمالي المبلغ المستحق</string>
+    <string name="customers">إجمالي العملاء</string>
+
+    <string name="txt_total_due_amount">إجمالي المبلغ المستحق</string>
+    <string name="txt_total_due_simple">إجمالي المستحق</string>
+    <string name="toast_rate_error">تعذر فتح متجر Play</string>
+    <string name="txt_total_amount_paid">إجمالي المبلغ المدفوع</string>
+    <string name="txt_transaction_history">سجل المعاملات</string>
+
+    <string name="txt_add_new_customer">إضافة عميل جديد</string>
+    <string name="hint_customer_name">أدخل اسم العميل</string>
+    <string name="hint_customer_phone">أدخل رقم هاتف العميل</string>
+    <string name="btn_save">حفظ</string>
+
+
+    <string name="txt_date">التاريخ</string>
+    <string name="txt_details">التفاصيل</string>
+    <string name="hint_details_example">مثل: أرز، عدس، زيت إلخ</string>
+    <string name="txt_amount_of_money">المبلغ لمبلغ المالي</string>
+    <string name="hint_amount_example">مثل: 500، 1000</string>
+    <string name="btn_save_transaction">حفظ</string>
+
+
+    <string name="txt_date_new">التاريخ</string>
+    <string name="txt_details_new">التفاصيل</string>
+    <string name="hint_items_eg">مثل: أرز، عدس، زيت إلخ</string>
+    <string name="txt_prev_due">المستحقات السابقة</string>
+    <string name="hint_num_eg">مثل: 500، 1000</string>
+    <string name="btn_save_final">حفظ</string>
+
+
+    <string name="txt_app_login">تسجيل الدخول إلى أداة الحساب</string>
+    <string name="txt_recover_title">استرداد حسابك أو تسجيل الدخول إليه</string>
+    <string name="hint_phone_basic">أدخل رقم الهاتف</string>
+    <string name="hint_phone_your">أدخل رقم هاتفك المحمول</string>
+    <string name="btn_next_step">التالي</string>
+    <string name="btn_create_acc">إنشاء حساب جديد</string>
+    <string name="btn_save_data">Language</string>
+
+
+    <string name="txt_new_acc_title">حساب جديد</string>
+    <string name="txt_reg_instruction">أكمل تسجيلك بالمعلومات الصحيحة</string>
+    <string name="hint_your_name">اسمك</string>
+    <string name="hint_select_customer">حدد اسم العميل</string>
+    <string name="txt_mobile_lbl">رقم الهاتف المحمول</string>
+    <string name="hint_your_mobile">رقم هاتفك المحمول</string>
+    <string name="btn_submit_reg">إنشاء حساب</string>
+
+
+    <string name="hint_otp_code">أدخل الرمز هنا</string>
+    <string name="txt_otp_instruction">أدخل رمز OTP المكون من 6 أرقام المرسل إلى رقم هاتفك المحمول.</string>
+    <string name="btn_login_submit">تسجيل الدخول</string>
+
+
+
+    <string name="dialog_delete_title">تأكيد حذف العميل</string>
+    <string name="dialog_delete_msg">هل أنت متأكد أنك تريد حذف العملاء المحددين؟ سيتم إزالته أيضًا من النسخة الاحتياطية السحابية!</string>
+    <string name="dialog_btn_yes">نعم</string>
+    <string name="dialog_btn_no">لا</string>
+    <string name="toast_deleted">تم حذف العميل بنجاح</string>
+
+
+    <string name="dialog_logout_title">تأكيد تسجيل الخروج</string>
+    <string name="dialog_logout_msg">هل أنت متأكد أنك تريد تسجيل الخروج من حسابك؟</string>
+    <string name="dialog_btn_logout_yes">نعم، تسجيل الخروج</string>
+    <string name="dialog_btn_logout_no">لا</string>
+    <string name="toast_logout_success">تم تسجيل الخروج بنجاح</string>
+
+    <string name="txt_prof_name">الاسم</string>
+    <string name="txt_prof_mobile">رقم الهاتف المحمول</string>
+    <string name="txt_prof_uid">معرف المستخدم (UID)</string>
+
+
+
+
+</resources>

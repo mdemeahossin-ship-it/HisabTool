@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">হিসাব টুল</string>
+    <string name="hello_blank_fragment">হ্যালো ব্ল্যাঙ্ক ফ্র্যাগমেন্ট</string>
+
+    <string name="txt_premium_heading">প্রিমিয়াম সাবস্ক্রিপশন</string>
+    <string name="txt_premium_item1">প্রিমিয়াম</string>
+    <string name="txt_premium_sub1">সব লক ফিচার চালু করুন</string>
+    <string name="txt_upgrade_now">এখনই আপডেট করুন</string>
+    <string name="txt_premium_item2">আজীবন প্রিমিয়াম</string>
+    <string name="txt_premium_sub2">বন্ধুদের ইনভাইট করুন আর আজীবন ফ্রি ব্যবহার করুন</string>
+    <string name="txt_get_free_premium">ফ্রি প্রিমিয়াম পান</string>
+
+    <string name="txt_welcome">স্বাগতম,</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_customer">কাস্টমার</string>
+    <string name="nav_profile">প্রোফাইল</string>
+
+    <string name="title_customer_list">কাস্টমার লিস্ট</string>
+    <string name="hint_search_customer">গ্রাহকের নাম খুঁজুন...</string>
+
+    <string name="title_my_profile">আমার প্রোফাইল</string>
+    <string name="menu_rate_app">অ্যাপে রেটিং দিন</string>
+    <string name="toast_rate_error">প্লে-স্টোর ওপেন করা যাচ্ছে না ভাই</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_share_app">শেয়ার করুন</string>
+    <string name="menu_logout">লগআউট করুন</string>
+
+    <string name="total_due_">মোট বাকি টাকা</string>
+    <string name="customers">মোট কাস্টমার</string>
+
+    <string name="txt_total_due_amount">মোট বাকি টাকা</string>
+    <string name="txt_total_due_simple">মোট বাকি</string>
+    <string name="txt_total_amount_paid">মোট পরিশোধিত টাকা</string>
+    <string name="txt_transaction_history">লেনদেনের হিসাব</string>
+
+    <string name="txt_add_new_customer">নতুন কাস্টমার অ্যাড করুন</string>
+    <string name="hint_customer_name">গ্রাহকের নাম লিখুন</string>
+    <string name="hint_customer_phone">গ্রাহকের ফোন নম্বর দিন</string>
+    <string name="btn_save">সেভ করুন</string>
+
+
+    <string name="txt_date">তারিখ</string>
+    <string name="txt_details">বিবরণ</string>
+    <string name="hint_details_example">যেমন: চাল, ডাল, তেল ইত্যাদি</string>
+    <string name="txt_amount_of_money">টাকার পরিমাণ</string>
+    <string name="hint_amount_example">যেমন: 500, 2000</string>
+    <string name="btn_save_transaction">সেভ করুন</string>
+
+
+    <string name="txt_date_new">তারিখ</string>
+    <string name="txt_details_new">বিবরণ</string>
+    <string name="hint_items_eg">যেমন: চাল, ডাল, তেল ইত্যাদি</string>
+    <string name="txt_prev_due">আগের বাকি</string>
+    <string name="hint_num_eg">যেমন: ৫০০, ১০০০</string>
+    <string name="btn_save_final">সেভ করুন</string>
+
+
+
+    <string name="txt_app_login">হিসাব টুল লগইন</string>
+    <string name="txt_recover_title">আপনার অ্যাকাউন্ট পুনরুদ্ধার বা লগইন করুন</string>
+    <string name="hint_phone_basic">মোবাইল নম্বর দিন</string>
+    <string name="hint_phone_your">আপনার মোবাইল নম্বর দিন</string>
+    <string name="btn_next_step">এগিয়ে যান</string>
+    <string name="btn_create_acc">নতুন অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="btn_save_data">Language</string>
+
+
+    <string name="txt_new_acc_title">নতুন অ্যাকাউন্ট</string>
+    <string name="txt_reg_instruction">আপনার সঠিক তথ্য দিয়ে নিবন্ধন সম্পন্ন করুন</string>
+    <string name="hint_your_name">আপনার নাম</string>
+    <string name="hint_select_customer">গ্রাহকের নাম নির্বাচন করুন</string>
+    <string name="txt_mobile_lbl">মোবাইল নম্বর</string>
+    <string name="hint_your_mobile">আপনার mobile নম্বর</string>
+    <string name="btn_submit_reg">অ্যাকাউন্ট তৈরি করুন</string>
+
+
+
+    <string name="hint_otp_code">কোডটি এখানে দিন</string>
+    <string name="txt_otp_instruction">আপনার মোবাইল নাম্বারে পাঠানো ৬ ডিজিটের ওটিপি (OTP) কোডটি লিখুন।</string>
+    <string name="btn_login_submit">লগইন করুন</string>
+
+
+
+    <string name="dialog_delete_title">কাস্টমার ডিলিট নিশ্চিত করুন</string>
+    <string name="dialog_delete_msg">আপনি কি নিশ্চিতভাবে নির্বাচিত কাস্টমার(দের) ডিলিট করতে চান? ক্লাউড ব্যাকআপ থেকেও মুছে যাবে ভাই!</string>
+    <string name="dialog_btn_yes">হ্যাঁ</string>
+    <string name="dialog_btn_no">না</string>
+    <string name="toast_deleted">কাস্টমার ডিলিট হয়েছে ভাই</string>
+
+
+    <string name="dialog_logout_title">লগআউট নিশ্চিত করুন</string>
+    <string name="dialog_logout_msg">আপনি কি সত্যি অ্যাকাউন্ট থেকে লগআউট করতে চান ভাই?</string>
+    <string name="dialog_btn_logout_yes">হ্যাঁ, লগআউট</string>
+    <string name="dialog_btn_logout_no">না</string>
+    <string name="toast_logout_success">লগআউট সফল হয়েছে ভাই</string>
+
+
+
+    <string name="txt_prof_name">নাম</string>
+    <string name="txt_prof_mobile">মোবাইল নম্বর</string>
+    <string name="txt_prof_uid">ইউআইডি (UID) ইউজার আইডি</string>
+
+
+
+</resources>

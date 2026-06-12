@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/nav_home" 
+        android:icon="@drawable/home_ico"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/customer"
+        android:title="@string/nav_customer"
+        android:icon="@drawable/customer_ico"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/account"
+        android:title="@string/nav_profile"
+        android:icon="@drawable/account_ico"
+        android:checkable="true" />
+
+
+
+
+
+</menu>

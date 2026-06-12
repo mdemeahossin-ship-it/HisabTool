@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हिसाब टूल</string>
+    <string name="hello_blank_fragment">हैलो ब्लैंक फ्रैगमेंट</string>
+
+    <string name="txt_premium_heading">प्रीमियम सब्सक्रिप्शन</string>
+    <string name="txt_premium_item1">प्रीमियम</string>
+    <string name="txt_premium_sub1">सभी सुविधाएं अनलॉक करें</string>
+    <string name="txt_upgrade_now">अभी अपग्रेड करें</string>
+    <string name="txt_premium_item2">लाइफटाइम प्रीमियम</string>
+    <string name="txt_premium_sub2">दोस्तों को आमंत्रित करें और हमेशा के लिए अनलॉक करें</string>
+    <string name="txt_get_free_premium">फ्री प्रीमियम प्राप्त करें</string>
+
+    <string name="txt_welcome">स्वागत है,</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_customer">ग्राहक</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="title_customer_list">ग्राहक सूची</string>
+    <string name="hint_search_customer">ग्राहक का नाम खोजें...</string>
+    <string name="title_my_profile">मेरी प्रोफ़ाइल</string>
+    <string name="menu_rate_app">ऐप को रेट करें</string>
+    <string name="menu_language">भाषा (Language)</string>
+    <string name="menu_share_app">ऐप शेयर करें</string>
+    <string name="menu_logout">लॉगआउट करें</string>
+
+    <string name="total_due_">कुल बकाया राशि</string>
+    <string name="customers">कुल ग्राहक</string>
+
+    <string name="txt_total_due_amount">कुल बकाया राशि</string>
+    <string name="txt_total_due_simple">कुल बकाया</string>
+    <string name="toast_rate_error">प्ले स्टोर नहीं खोला जा सका</string>
+    <string name="txt_total_amount_paid">कुल भुगतान की गई राशि</string>
+    <string name="txt_transaction_history">लेनदेन का इतिहास</string>
+
+    <string name="txt_add_new_customer">नया ग्राहक जोड़ें</string>
+    <string name="hint_customer_name">ग्राहक का नाम दर्ज करें</string>
+    <string name="hint_customer_phone">ग्राहक का फ़ोन नंबर दर्ज करें</string>
+    <string name="btn_save">सहेजें</string>
+
+
+    <string name="txt_date">दिनांक</string>
+    <string name="txt_details">विवरण</string>
+    <string name="hint_details_example">जैसे: चावल, दाल, तेल आदि</string>
+    <string name="txt_amount_of_money">रकम</string>
+    <string name="hint_amount_example">जैसे: 500, 1000</string>
+    <string name="btn_save_transaction">सहेजें</string>
+
+
+    <string name="txt_date_new">दिनांक</string>
+    <string name="txt_details_new">विवरण</string>
+    <string name="hint_items_eg">जैसे: चावल, दाल, तेल आदि</string>
+    <string name="txt_prev_due">पिछला बकाया</string>
+    <string name="hint_num_eg">जैसे: 500, 1000</string>
+    <string name="btn_save_final">सहेजें</string>
+
+
+
+    <string name="txt_app_login">हिसाब टूल लॉगिन</string>
+    <string name="txt_recover_title">अपना खाता पुनर्प्राप्त करें या लॉगिन करें</string>
+    <string name="hint_phone_basic">फ़ोन नंबर दर्ज करें</string>
+    <string name="hint_phone_your">अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="btn_next_step">आगे बढ़ें</string>
+    <string name="btn_create_acc">नया खाता बनाएं</string>
+    <string name="btn_save_data">Language</string>
+
+
+    <string name="txt_new_acc_title">नया खाता</string>
+    <string name="txt_reg_instruction">सही जानकारी के साथ अपना पंजीकरण पूरा करें</string>
+    <string name="hint_your_name">आपका नाम</string>
+    <string name="hint_select_customer">ग्राहक का नाम चुनें</string>
+    <string name="txt_mobile_lbl">मोबाइल नंबर</string>
+    <string name="hint_your_mobile">आपका मोबाइल नंबर</string>
+    <string name="btn_submit_reg">खाता बनाएं</string>
+
+
+    <string name="hint_otp_code">कोड यहाँ दर्ज करें</string>
+    <string name="txt_otp_instruction">अपने मोबाइल नंबर पर भेजा गया 6-अंकीय ओटीपी (OTP) कोड दर्ज करें।</string>
+    <string name="btn_login_submit">लॉग इन करें</string>
+
+
+    <string name="dialog_delete_title">ग्राहक हटाने की पुष्टि करें</string>
+    <string name="dialog_delete_msg">क्या आप वाकई चयनित ग्राहकों को हटाना चाहते हैं? यह क्लाउड बैकअप से भी हटा दिया जाएगा!</string>
+    <string name="dialog_btn_yes">हाँ</string>
+    <string name="dialog_btn_no">नहीं</string>
+    <string name="toast_deleted">ग्राहक हटा दिया गया है</string>
+
+
+    <string name="dialog_logout_title">लॉगआउट की पुष्टि करें</string>
+    <string name="dialog_logout_msg">क्या आप वाकई अपने खाते से लॉग आउट करना चाहते हैं?</string>
+    <string name="dialog_btn_logout_yes">हाँ, लॉगआउट</string>
+    <string name="dialog_btn_logout_no">नहीं</string>
+    <string name="toast_logout_success">लॉगआउट सफल रहा</string>
+
+
+    <string name="txt_prof_name">नाम</string>
+    <string name="txt_prof_mobile">मोबाइल नंबर</string>
+    <string name="txt_prof_uid">यूआईडी (UID) यूजर आईडी</string>
+
+
+
+
+</resources>

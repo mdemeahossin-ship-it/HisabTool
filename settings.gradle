@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    plugins {
+        id 'com.google.gms.google-services' version '4.4.2'
+    }
+}
+
+// foojay প্লাগইন ব্লকটি সম্পূর্ণ সরিয়ে দেওয়া হয়েছে
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "SQLite Database"
+include ':app'
